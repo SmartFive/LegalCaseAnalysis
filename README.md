@@ -6,7 +6,7 @@
 
 ## 文件结构
 
-- `Dataset`: OLDoc 部分数据。
+- `Dataset`: OLDoc 数据集。
 
 
 - `main.py`: 主程序，负责调用LLM模型，处理输入文件，并将结果输出为JSON文件。
